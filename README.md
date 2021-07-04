@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chris Festus Otopa Ayeh-Datey
 - 👀 I’m currently working on iOS development with Swift 
 - 🌱 I’m currently training to be a devops engineer
-- 💞️ I’m looking to collaborate on software that will help eleviate finance in africa
+- 💞️ I’m looking to collaborate on software that will help impact finance and banking in west africa
 - 📫 Reach me via email/imessage on chrisaydat@gmail.com or via whatsapp +233540755223
 
 <!---
